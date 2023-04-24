@@ -6,7 +6,7 @@ This is example of my projects from my portfolio. It showcases a range of front-
 * JavaScript
 # Getting Started:
 1. Clone the repository.
-2. The project is fully compiled and ready. All you have to do is open `index.html` or just [visiting website](https://joulence.github.io/portfolio/)
+2. The project is fully compiled and ready. All you have to do is open `index.html` or just [visiting website](https://joulence.github.io/helloui.github.io/)
 # Features:
 * Responsive design.
 # Conclusion:
